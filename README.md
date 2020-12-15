@@ -32,7 +32,7 @@ Follow these steps for completing your project.
 
 ### Instructions and/or completion requirements
 
-Your challenge for this module: write tests for both the `App.js` component and the `Episodesjs` component. Take note of where the state is being managed, where the async call is, and where different data peices are being rendered. Understanding all of this will be important so you know how to test each component.
+Your challenge for this module: write tests for both the `App.js` component and the `Episodesjs` component. Take note of where the state is being managed, where the async call is, and where different data pieces are being rendered. Understanding all of this will be important so you know how to test each component.
 
 **Moving the async call**
 
@@ -72,4 +72,3 @@ useEffect(() => {
 - Look up the `TVMaze` API. Add a dropdown with the titles of some other popular shows. Add the user sequence of choosing a different show to fetch data for different shows.
 
 - Add React Router, and add the functionality to click an episode and navigate to an episode page.
-<!-- test -->
